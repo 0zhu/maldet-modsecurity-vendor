@@ -1,0 +1,75 @@
+---
+2.9.0:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+2.9.2:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+2.9.3:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+2.9.4:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+2.9.5:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+2.9.6:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+2.9.7:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+3.0.0:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+3.0.1:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+3.0.2:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+3.0.3:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+3.0.4:
+  MD5: 6493881baf8ae25e59e3425ade10af8d
+  SHA512: 13fa6a4cc0b4e985ef2bb7113eea4b0097c1a0ea65dc67e352cc56ac648e72c939850066d05f1aecac51fcc1ae1e314cebf3b6ed5461341bca21d63b0ebbe134
+  defaulted: 1
+  distribution: 20190616
+  url: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/maldet-20190616.zip
+attributes:
+  description: 'Modsecurity Vendor created from https://www.rfxn.com/appdocs/README.maldetect'
+  name: 'Maldet'
+  vendor_url: https://github.com/zhubanRuban/maldet-modsecurity-vendor
