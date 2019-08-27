@@ -21,7 +21,7 @@ service maldet restart
 
 ## Why
 
-cPanel with MariaDB creates temp files with MAD and MAI extensions which are not covered by current rules:
+cPanel with MariaDB creates temp files with MAD and MAI extensions which are not covered by [current rules](https://github.com/rfxn/linux-malware-detect/blob/master/files/ignore_inotify):
 ```
 ^/var/tmp/#sql_.*\.MYD$
 ^/tmp/#sql_.*\.MYD$
