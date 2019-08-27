@@ -1,15 +1,9 @@
-# base: https://github.com/rfxn/linux-malware-detect/blob/master/files/ignore_inotify
 ^/var/tmp/mysql.sock$
 ^/tmp/mysql.sock$
 ^/var/cache/buagent/md0.cache.data$
-# the following is commented:
-#^/var/tmp/#sql_.*\.MYD$
-#^/tmp/#sql_.*\.MYD$
-# to insert this instead:
 ^/var/tmp/#sql_.*
 ^/tmp/#sql_.*
 ^/dev/shm/#sql_.*
-# ^ mysql temp files in cPanel with MariaDB also have MAD and MAI extensions
 ^/var/tmp/clamav-.*
 ^/tmp/clamav-.*
 ^/usr/local/maldetect*
