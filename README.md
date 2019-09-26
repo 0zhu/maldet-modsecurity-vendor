@@ -8,7 +8,17 @@
 
 ## Installation
 
-[Install a ModSecurity vendor in WHM](https://documentation.cpanel.net/display/ALD/ModSecurity+Vendors#ModSecurityVendors-InstallaModSecurityvendor)
+### WHM
+
+[Instructions](https://documentation.cpanel.net/display/82Docs/ModSecurity+Vendors#ModSecurityVendors-AddaModSecurityvendor)
+
+Vendor Configuration URL: https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/meta_maldet.yaml
+
+### Command line
+
+```
+/scripts/modsec_vendor add https://github.com/zhubanRuban/maldet-modsecurity-vendor/raw/master/meta_maldet.yaml
+```
 
 # Custom Maldet ignore_inotify file
 
